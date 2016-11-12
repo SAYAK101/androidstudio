@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fd34a6c3c4501ea7da5a941167e00b53ebef2a78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_7a5c1381af192dc2997db541c39b15707ac72968.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_39f5e1b1920cfa9f7bb12757c6099345e3be5593.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/main_cd2834bd9989ec2a12a50592eb8353dfd47ee596.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_91985d1e86b60645b9e7e3c3306279e4ad1d40b7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/instant-run_e00996c50f4126cbe4a7d39f3040fe522c842203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_640a0e7f1701ce3213f2ed87014980f5bd9e2040.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_9200d74ef8c8df0f8f40b49aed5acd6c26c156cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_6eefdaad65410e24ce5bac46975b6bb36717d421.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b82f5ac629bf9bc6bb1a6e622c8a9f29f84e0af5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_378357adadfb338c3e3abbc9ce5a2b3e9492ef89.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_60477381c3ca81e8596b68230bbf407dc4252d53.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_4f4a2a339550cebc99cbf01e63bdf30e34a15455.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_b5043e4027cb403fe0b2289726dcd0004f152d26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bf3435119074dda32cfb3f92952a108ccfc8d5a8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_6458fc093ce90a340158e825ff0aee1c8e1d136a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_ea689c8f2a84f5e5bcaa093434f2afb7f91cce3b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MultiscreenApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_01ec0875243c7955ff07ef48c30beefb222573e8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="debug1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4766b6235a4af61831c0b7b339fca645cf27e967.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/debug_cb9e96ab5457ad7aee4c1654a72c7d4b922af277.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_6ddb5136802096e8b9b2f0288aa2f9b2c9d5bb77.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0454c4100f38c2294ec0491fb0013fadda11015d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_3e00a0ca29a20273644e0a94723ddd9f4bd0dd78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_60477381c3ca81e8596b68230bbf407dc4252d53.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_99ffa2f80b6061e11b9cd433b58978388427fffd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a64a6086720ec8829b5e1bd0a40816cf47e0e286.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ac98b367853e828a248c864bc62b77e7775bd596.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_80afc1e04f5d9ae3ad5f86c045e8250dcfb1c221.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_6be89cc563ff2e48f05859b8cad053809ecee66a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_78b7a2303cb0db38859e5c18dfb4943b499722cb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_79e8c1e7fa01c97a9dccf54ab03a458eea9987a1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_da3f44e1e794070a2fe3c997cf9c763f9f592785.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_fafd17765a4949aa787be0446b0378e79329ac99.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CourtCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_80ed41286c14dcea9c54903dfd958186fa93a91d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
