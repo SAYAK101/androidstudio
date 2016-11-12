@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/tan_background"
+    tools:context="com.example.android.multiscreenapp.MainActivity">
+
+    <TextView
+        android:id="@+id/family"
+        style="@style/category"
+        android:background="@color/category_family"
+        android:text="family"
+        android:layout_weight="1"
+        android:onClick="Familia"/>
+    <TextView
+        android:id="@+id/numbers"
+        style="@style/category"
+        android:layout_weight="1"
+        android:background="@color/category_number"
+        android:text="numbers"
+        android:onClick="numoro"/>
+    <TextView
+        android:id="@+id/colors"
+        style="@style/category"
+        android:layout_weight="1"
+        android:background="@color/category_color"
+        android:text="color"
+        android:onClick="colouri"/>
+    <TextView
+        android:id="@+id/phrases"
+        style="@style/category"
+        android:background="@color/category_phrases"
+        android:text="phrases"
+        android:layout_weight="1"
+        android:onClick="idioms"/>
+
+</LinearLayout>
